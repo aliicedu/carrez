@@ -1,0 +1,25 @@
+{
+	"title": "meilleuragents",
+	"type": "object",
+	"properties": {
+		"type": {
+			"type": "string"
+		},
+		"zip": {
+			"type": "string"
+		},
+		"price": {
+			"type": "double"
+		},
+		"check": {
+			"type": "boolean"
+		},
+		"average": {
+			"type": "integer",
+		},
+				
+			
+		}
+	},
+	"required": ["type", "city", "postal_code", "lowest", "average", "highest"]
+}

@@ -1,0 +1,14 @@
+{
+    "title": "lbc",
+    "type": "object",
+    "properties": {
+        "zip": "94110",
+        "price": "318 000 €",
+        "type": {
+            "type": "string"
+        },
+        "rooms": "3",
+        "surface": "60 m",
+        "properties_type": "Appartement"
+    }
+}

@@ -1,0 +1,21 @@
+{
+  "title": "lbc",
+  "type": "object",
+  "properties": {
+    "zip": {
+      "type": "integer"
+    },
+    "price": {
+      "type": "integer"
+    },
+      "type": {
+      "type": "string"
+    },
+ "rooms": {
+      "type": "integer"
+    },
+      "surface": {
+      "type": "double"
+    }
+  }
+}

@@ -8,18 +8,20 @@
 		"zip": {
 			"type": "string"
 		},
-		"price": {
+                "city": {
+			"type": "string"
+		},
+		"price_m2": {
 			"type": "double"
 		},
-		"check": {
+		"good_deal": {
 			"type": "boolean"
 		},
 		"average": {
-			"type": "integer",
-		},
+			"type": "double"
+		}
 				
 			
-		}
-	},
-	"required": ["type", "city", "postal_code", "lowest", "average", "highest"]
+	}
+	
 }

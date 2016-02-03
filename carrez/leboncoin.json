@@ -3,8 +3,11 @@
   "type": "object",
   "properties": {
     "zip": {
-      "type": "integer"
+      "type": "string"
     },
+       "city": {
+      "type": "string"
+		},
     "price": {
       "type": "integer"
     },

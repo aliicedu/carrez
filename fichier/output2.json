@@ -1,11 +1,13 @@
 {
-    "title": "lbc",
+    "title": "meilleuragents",
     "type": "object",
     "properties": {
+        "type": "Maison",
         "zip": "92150",
         "city": "Suresnes",
-        "price": 700000,
-        "type": "Maison",
+        "price2": 6086.95652173913,
+        "check": "yes",
+        "average": 6277,
         "rooms": "6",
         "surface": 115
     }

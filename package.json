@@ -1,0 +1,13 @@
+{
+  "name"         : "app",
+  "main"         : "app.js",
+  "dependencies" : {
+    "body-parser": "latest",
+    "cheerio": "latest",
+    "express": "latest",
+    "path": "latest"
+    "request": "latest"
+  }
+}
+
+

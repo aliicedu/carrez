@@ -1,0 +1,12 @@
+{
+    "title": "lbc",
+    "type": "object",
+    "properties": {
+        "zip": "93200",
+        "city": "Saint-Denis",
+        "price": 140000,
+        "type": "Appartement",
+        "rooms": "3",
+        "surface": 49
+    }
+}

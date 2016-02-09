@@ -1,0 +1,14 @@
+{
+    "title": "meilleuragents",
+    "type": "object",
+    "properties": {
+        "type": "Appartement",
+        "zip": "93200",
+        "city": "Saint-Denis",
+        "good_deal": {
+            "type": "boolean"
+        },
+        "rooms": "3",
+        "surface": 49
+    }
+}
